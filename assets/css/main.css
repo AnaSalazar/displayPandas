@@ -13,6 +13,13 @@ a:hover{
   color: pink;
 }
 
+/*espacio de los pandas*/
 #seccion1 {
   background-color: #F7BE81;
+}
+
+.pandas {
+  margin: 45px;
+  width: 150px;
+  height: 150px;
 }
